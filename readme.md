@@ -19,4 +19,4 @@
 ![image](/images/Screenshot_3.png)
 ![image](/images/Screenshot_4.png)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=u1trab/Covid-19-Flutter-App&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=u1trab.covid-19-Flutter-App&left_color=green&right_color=red)
